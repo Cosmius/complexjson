@@ -25,3 +25,7 @@ pip-log.txt
 
 #Mr Developer
 .mr.developer.cfg
+runtest.py
+test
+test/__init__.py
+test/test_bidict.py
